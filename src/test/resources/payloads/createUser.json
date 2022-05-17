@@ -1,0 +1,6 @@
+{
+  "name": "testUser",
+  "email": "test.email@gmail.com",
+  "gender": "male",
+  "status": "active"
+}
